@@ -30,7 +30,7 @@ When you use google services for free, we all know there is still payment, you p
 ### Tools and "passive" interest
 In general tools, be it software or mechanical real life ones like a shovel, are bound by this principle in a sometimes-abstract way. Media Player's "interest" is to help you consume standard media files, as long this aligns with your interest of watching you pirated pirates of the carabian movie all is well. But if you decide you also want automatic subtitle download, advanced streaming, live annotations etc. The interests would not align anymore and you would need to find another tool. 
 Same goes for a shovel, it won't help you cut a tree down very much, so you need to use a different tool. It is "Not interested in helping you" in a way.
-This sort of interest is called **passive interest** as it's the given tool or element passively posses it. A concept that lives in the users mind 
+This sort of interest is called **passive interest** as it's the given tool or element passively posses it. A concept that lives in the users mind.
 
 ---
 As you can see a lot of times **interest** aligns with **ability**, a shovel's passive interest would be to dig a hole, because it matches it's ability, same as when a teacher is more likely to help you learn and a food store is more likely to sell you food. They have the ability to do so, which underlines and bases the negotiation process. no matter how much you try to align interests with a dog to do your homework, it's not going to work because it doesn't have the ability to do so. 
